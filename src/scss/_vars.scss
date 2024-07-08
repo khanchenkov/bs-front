@@ -1,0 +1,23 @@
+:root {
+  --background-primary: #e2e2e2;
+  --background-sub: #dbdbdb;
+  --text-primary: hsl(233, 15%, 12%);
+  --text-sub: #cdc9c6;
+  --stroke-color: #999999;
+  --active-color: rgba(4, 5, 8, 0.2);
+}
+
+.dark-mode {
+  --background-primary: #1d1d1d;
+  --background-sub: #242424;
+  --text-primary: #e5e4dc;
+  --text-sub: #323639;
+  --stroke-color: #666666;
+  --active-color: rgba(251, 250, 247, 0.2);
+}
+
+:root {
+  --danger-color: #920b0b;
+  --attention-color: #a1813a;
+  --edit-color: #735f17;
+}
